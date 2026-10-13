@@ -21,13 +21,15 @@ validation.
   0.850 on 320 unseen-vendor patients without reference segmentations at
   inference. *MIUA 2026, MÉTIS special session*
 
+- [**llm-cardiac-pathology**](https://github.com/zhuoanli/llm-cardiac-pathology):
+  LLM reasoning for cardiac pathology classification from
+  segmentation-derived metrics, where clinically calibrated chain-of-thought
+  prompting reaches 60% zero-shot accuracy. *MIUA 2026, short paper*
+
 - [**Stress-perfusion CMR classification with a CMR foundation model**](https://www.journalofcmr.com/article/S1097-6647%2825%2900399-0/fulltext):
   fine-tuning a cine-pretrained foundation model to flag abnormal perfusion
   series in the SCMR Registry, now extending to segment-level localization of
   perfusion abnormalities. *SCMR 2026 (oral)*
-
-- **LLM reasoning for cardiac pathology classification** from
-  segmentation-derived metrics. *MIUA 2026, short paper*
 
 - **Blood-sampling-free myocardial ECV estimation** across 9,700 multicenter
   examinations. *ISMRM 2026 oral, Summa Cum Laude Merit Award*
